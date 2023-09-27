@@ -12,7 +12,7 @@ Clone the repo.
 git clone https://github.com/calheb/PageParser.git
 ```
 Modify the script for the page you'd like to search and the keywords to search for.
-You can also specify the depth (how many directory levels to traverse when searching).
+You can specify the depth (how many directory levels to traverse when searching).
 
 `keywords`
 
