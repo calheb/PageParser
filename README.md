@@ -24,5 +24,5 @@ You can specify the depth (how many directory levels to traverse when searching)
 python3 search.py
 ```
 <div class='container' align='left'>
-  <img src="https://caleb.foo/img/misc/pysearch_terminal.png">
+  <img src="https://caleb.foo/images/misc/pysearch_terminal.png">
 </div>
